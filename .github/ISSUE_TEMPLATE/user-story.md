@@ -1,9 +1,9 @@
 ---
 name: User Story
-about: This template is for creating user stories
+about: Describe this issue template's purpose here.
 title: ''
 labels: ''
-assignees: ''
+assignees: Sus80
 
 ---
 
